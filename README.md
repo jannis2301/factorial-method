@@ -15,8 +15,6 @@ In this project, you use test-driven development to build a factorial method. Yo
 
 ## Technologies
 
-- HTML
-- CSS
 - JavaScript ES6
 - Mocha
 
